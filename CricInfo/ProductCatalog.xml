@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+
+	<souvenir id ="willow_bat">
+		<name>Willow Bat</name>
+		<price>100.20</price>
+		<image>1.jpg</image>
+		<discount>20</discount>
+	</souvenir>
+	<souvenir id ="mrf_bat">
+		<name>MRF Bat</name>
+		<price>200.65</price>
+		<image>2.jpg</image>
+		<discount>10</discount>
+	</souvenir>
+	<souvenir id ="spartan_bat">
+		<name>Spartan Bat</name>
+		<price>260.15</price>
+		<image>3.jpg</image>
+		<discount>25</discount>
+	</souvenir>
+	<souvenir id ="mb_bat">
+		<name>MB Bat</name>
+		<price>300.85</price>
+		<image>4.jpg</image>
+		<discount>5</discount>
+	</souvenir>
+	<souvenir id ="The Puma EvoPower">
+		<name>The Puma EvoPower</name>
+		<price>170.15</price>
+		<image>5.jpg</image>
+		<discount>2</discount>
+	</souvenir>
+	<souvenir id ="sf_bat">
+		<name>The Kookaburra Ghost Cricket Bat</name>
+		<price>200.65</price>
+		<image>6.jpg</image>
+		<discount>12</discount>
+	</souvenir>
+	<souvenir id ="GM">
+		<name>GM</name>
+		<price>190.25</price>
+		<image>7.jpg</image>
+		<discount>10</discount>
+	</souvenir>
+	<souvenir id ="crest_ball">
+		<name>Crest Ball</name>
+		<price>200.25</price>
+		<image>8.jpg</image>
+		<discount>4</discount>
+	</souvenir>
+	<souvenir id ="addidas_ball">
+		<name>Addidas Ball</name>
+		<price>160.25</price>
+		<image>9.jpg</image>
+		<discount>10</discount>
+	</souvenir>
+	<souvenir id ="duke_ball">
+		<name>Duke Ball</name>
+		<price>150.25</price>
+		<image>10.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="Slaze_ball">
+		<name>Slaze Ball </name>
+		<price>100.25</price>
+		<image>11.jpg</image>
+		<discount>6</discount>
+	</souvenir>
+	<souvenir id ="mrf_ball">
+		<name>MRF Ball</name>
+		<price>50.85</price>
+		<image>12.jpg</image>
+		<discount>15</discount>
+	</souvenir>
+	<souvenir id ="gray_ball">
+		<name>Gray Ball</name>
+		<price>60.15</price>
+		<image>13.jpg</image>
+		<discount>20</discount>
+	</souvenir>
+	<souvenir id ="kookaburra_ball">
+		<name>Kookaburra Ball</name>
+		<price>90.25</price>
+		<image>14.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="kookaburra_gloves">
+		<name>Kookaburra Gloves</name>
+		<price>30.25</price>
+		<image>15.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="instinct_gloves">
+		<name>Instinct Gloves</name>
+		<price>50.75</price>
+		<image>16.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="super_gloves">
+		<name>Super Gloves</name>
+		<price>30.85</price>
+		<image>17.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="addidas_gloves">
+		<name>Addidas Gloves</name>
+		<price>40.15</price>
+		<image>18.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="sunridges_gloves">
+		<name>Sunridges Gloves</name>
+		<price>70.25</price>
+		<image>19.jpg</image>
+		<discount>10</discount>
+	</souvenir>
+
+	<souvenir id ="superlite_gloves">
+		<name>Superlite Gloves</name>
+		<price>20.35</price>
+		<image>20.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="sp_gloves">
+		<name>SP gloves</name>
+		<price>70.45</price>
+		<image>21.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<souvenir id ="gray_helmet">
+		<name>Gray Helmet</name>
+		<price>50.45</price>
+		<image>22.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="masuri_helmet">
+		<name>Masuri Helmet</name>
+		<price>40.15</price>
+		<image>23.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="legacy_helmet">
+		<name>Legacy Helmet</name>
+		<price>30.25</price>
+		<image>24.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="dynamic_helmet">
+		<name>Dynamic Helmet</name>
+		<price>75.15</price>
+		<image>25.jpeg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="addidas_helmet">
+		<name>Addidas Helmet</name>
+		<price>60.35</price>
+		<image>26.jpeg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="sg_helmet">
+		<name>SG Helmet</name>
+		<price>40.25</price>
+		<image>27.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="smart_helmet">
+		<name>Smart Helmet</name>
+		<price>80.95</price>
+		<image>28.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="ss_pad">
+		<name>Ss Pad</name>
+		<price>25.95</price>
+		<image>29.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+		<souvenir id ="rts_pad">
+		<name>Rts Pad</name>
+		<price>50.85</price>
+		<image>30.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+		<souvenir id ="kookaburra_pad">
+		<name>Kookaburra Pad</name>
+		<price>50.15</price>
+		<image>31.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+		<souvenir id ="pulse_pad">
+		<name>Pulse Pad</name>
+		<price>70.55</price>
+		<image>32.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+		<souvenir id ="plus_pad">
+		<name>Plus Pad</name>
+		<price>20.25</price>
+		<image>33.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+		<souvenir id ="mrf_pad">
+		<name>MRF Pad</name>
+		<price>45.15</price>
+		<image>34.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="mrflite_pad">
+		<name>MRFLite Pad</name>
+		<price>60.15</price>
+		<image>35.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="addidas_shoes">
+		<name>Addidas Shoes</name>
+		<price>260.15</price>
+		<image>36.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="linarlon_shoes">
+		<name>Linarlon Shoes</name>
+		<price>360.25</price>
+		<image>37.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="adiprene_shoes">
+		<name>Adiprene Shoes</name>
+		<price>460.55</price>
+		<image>38.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="nike_shoes">
+		<name>Nike Shoes</name>
+		<price>160.45</price>
+		<image>39.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="adipower_shoes">
+		<name>Adipower Shoes</name>
+		<price>260.55</price>
+		<image>40.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="lite_shoes">
+		<name>Nike Lite Shoes</name>
+		<price>220.65</price>
+		<image>41.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="adizero_shoes">
+		<name>Adizero Shoes</name>
+		<price>310.35</price>
+		<image>42.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="rhino_stump">
+		<name>Rhino Stump</name>
+		<price>31.35</price>
+		<image>43.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="turbo_stump">
+		<name>Turbo Shoes</name>
+		<price>56.05</price>
+		<image>44.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+	<souvenir id ="kookaburra_stump">
+		<name>Kookaburra stumo</name>
+		<price>45.15</price>
+		<image>45.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+		<souvenir id ="reebok_stump">
+		<name>Rebook Stump</name>
+		<price>25.10</price>
+		<image>46.jpg</image>
+		<discount>0</discount>
+	</souvenir>
+
+	<ticket id ="invsaus">
+		<name>INDIA vs AUSTRALIA</name>
+		<price>55.50</price>
+		<image>59.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+
+	<ticket id ="ausvsin">
+		<name>AUSTRALIA vs INDIA</name>
+		<price>100.20</price>
+		<image>60.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+	<ticket id ="ausvssa">
+		<name>AUSTRALIA vs SOUTHAFRICA</name>
+		<price>120.50</price>
+		<image>61.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+	<ticket id ="savsaus">
+		<name>SOUTHAFRICA vs AUSTRALIA</name>
+		<price>125.10</price>
+		<image>62.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+	<ticket id ="invssa">
+		<name>INDIA vs SOUTHAFRICA</name>
+		<price>115.10</price>
+		<image>63.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+	<ticket id ="savsin">
+		<name>SOUTHAFRICA vs INDIA</name>
+		<price>105.30</price>
+		<image>64.jpg</image>
+		<discount>0</discount>
+	</ticket>
+
+	<player id="1">
+	  <name>Steve Smith</name>
+	  <team>Australia</team>
+	  <jersey>49</jersey>
+	  <matches>118</matches>
+	  <runs>10424</runs>
+	  <wickets>46</wickets>
+      <catches>20</catches>
+	  <image>65.jpg</image>
+	</player>
+
+	<player id="2">
+	  <name>Glenn Maxwell</name>
+	  <team>Australia</team>
+	  <jersey>32</jersey>
+	  <matches>51</matches>
+	  <runs>1173</runs>
+	  <wickets>24</wickets>
+      <catches>26</catches>
+	  <image>66.jpg</image>
+	</player>
+
+	<player id="3">
+	  <name>Mitchell Starc</name>
+	  <team>Australia</team>
+	  <jersey>56</jersey>
+	  <matches>22</matches>
+	  <runs>1807</runs>
+	  <wickets>318</wickets>
+      <catches>38</catches>
+	  <image>67.jpg</image>
+	</player>
+
+	<player id="4">
+	  <name>David Warner</name>
+	  <team>Australia</team>
+	  <jersey>31</jersey>
+	  <matches>151</matches>
+	  <runs>8608</runs>
+	  <wickets>46</wickets>
+      <catches>68</catches>
+	  <image>68.jpg</image>
+	</player>
+
+	<player id="5">
+	  <name>Aaron Finch</name>
+	  <team>Australia</team>
+	  <jersey>5</jersey>
+	  <matches>118</matches>
+	  <runs>10424</runs>
+	  <wickets>46</wickets>
+      <catches>20</catches>
+	  <image>69.jpg</image>
+	</player>
+
+	<player id="6">
+	  <name>Travis Head</name>
+	  <team>Australia</team>
+	  <jersey>69</jersey>
+	  <matches>84</matches>
+	  <runs>2867</runs>
+	  <wickets>20</wickets>
+      <catches>25</catches>
+	  <image>70.jpg</image>
+	</player>
+
+	<player id="7">
+	  <name>George Bailey</name>
+	  <team>Australia</team>
+	  <jersey>2</jersey>
+	  <matches>256</matches>
+	  <runs>9022</runs>
+	  <wickets>10</wickets>
+      <catches>119</catches>
+	  <image>71.jpg</image>
+	</player>
+
+	<player id="8">
+	  <name>Marcus Stoinis</name>
+	  <team>Australia</team>
+	  <jersey>17</jersey>
+	  <matches>60</matches>
+	  <runs>2642</runs>
+	  <wickets>46</wickets>
+      <catches>19</catches>
+	  <image>72.jpg</image>
+	</player>
+
+	<player id="9">
+	  <name>Josh Hazlewood</name>
+	  <team>Australia</team>
+	  <jersey>38</jersey>
+	  <matches>87</matches>
+	  <runs>676</runs>
+	  <wickets>271</wickets>
+      <catches>28</catches>
+	  <image>73.jpg</image>
+	</player>
+
+	<player id="10">
+	  <name>Adam Zampa</name>
+	  <team>Australia</team>
+	  <jersey>63</jersey>
+	  <matches>95</matches>
+	  <runs>530</runs>
+	  <wickets>42</wickets>
+      <catches>7</catches>
+	  <image>74.jpg</image>
+	</player>
+
+	<player id="11">
+	  <name>Pat Cummins</name>
+	  <team>Australia</team>
+	  <jersey>30</jersey>
+	  <matches>39</matches>
+	  <runs>629</runs>
+	  <wickets>16</wickets>
+      <catches>10</catches>
+	  <image>75.jpg</image>
+	</player>
+
+	<player id="12">
+	  <name>Virat Kohli</name>
+	  <team>India</team>
+	  <jersey>18</jersey>
+	  <matches>105</matches>
+	  <runs>10076</runs>
+	  <wickets>4</wickets>
+      <catches>32</catches>
+	  <image>76.jpg</image>
+	</player>
+
+
+	<player id="13">
+	  <name>MS Dhoni</name>
+	  <team>India</team>
+	  <jersey>7</jersey>
+	  <matches>328</matches>
+	  <runs>10629</runs>
+	  <wickets>16</wickets>
+      <catches>310</catches>
+	  <image>77.jpg</image>
+	</player>
+
+
+	<player id="14">
+	  <name>Ravichandran Ashwin</name>
+	  <team>India</team>
+	  <jersey>60</jersey>
+	  <matches>111</matches>
+	  <runs>3629</runs>
+	  <wickets>52</wickets>
+      <catches>30</catches>
+	  <image>78.jpg</image>
+	</player>
+
+
+	<player id="15">
+	  <name>Ravindra Jadeja</name>
+	  <team>India</team>
+	  <jersey>8</jersey>
+	  <matches>139</matches>
+	  <runs>5099</runs>
+	  <wickets>27</wickets>
+      <catches>18</catches>
+	  <image>79.jpg</image>
+	</player>
+
+
+	<player id="16">
+	  <name>Ajinkya Rahane</name>
+	  <team>India</team>
+	  <jersey>27</jersey>
+	  <matches>118</matches>
+	  <runs>9199</runs>
+	  <wickets>16</wickets>
+      <catches>48</catches>
+	  <image>80.jpg</image>
+	</player>
+
+
+	<player id="17">
+	  <name>Shikhar Dhawan</name>
+	  <team>India</team>
+	  <jersey>25</jersey>
+	  <matches>225</matches>
+	  <runs>9515</runs>
+	  <wickets>17</wickets>
+      <catches>54</catches>
+	  <image>81.jpg</image>
+	</player>
+
+
+	<player id="18">
+	  <name>Pat Cummins</name>
+	  <team>India</team>
+	  <jersey>30</jersey>
+	  <matches>39</matches>
+	  <runs>629</runs>
+	  <wickets>16</wickets>
+      <catches>10</catches>
+	  <image>82.jpg</image>
+	</player>
+
+
+	<player id="19">
+	  <name>Hardik Pandya</name>
+	  <team>India</team>
+	  <jersey>33</jersey>
+	  <matches>35</matches>
+	  <runs>1043</runs>
+	  <wickets>15</wickets>
+      <catches>10</catches>
+	  <image>83.jpg</image>
+	</player>
+
+	<player id="20">
+	  <name>Kuldeep Yadav</name>
+	  <team>India</team>
+	  <jersey>23</jersey>
+	  <matches>29</matches>
+	  <runs>846</runs>
+	  <wickets>11</wickets>
+      <catches>20</catches>
+	  <image>85.jpg</image>
+	</player>
+
+	<player id="21">
+	  <name>Mohammed Shami</name>
+	  <team>India</team>
+	  <jersey>11</jersey>
+	  <matches>82</matches>
+	  <runs>296</runs>
+	  <wickets>16</wickets>
+      <catches>38</catches>
+	  <image>84.jpg</image>
+	</player>
+
+	<player id="22">
+	  <name>Ambati Rayudu</name>
+	  <team>India</team>
+	  <jersey>5</jersey>
+	  <matches>146</matches>
+	  <runs>4661</runs>
+	  <wickets>43</wickets>
+      <catches>74</catches>
+	  <image>86.jpg</image>
+	</player>
+
+	<player id="23">
+	  <name>AB de Villiers</name>
+	  <team>South Africa</team>
+	  <jersey>17</jersey>
+	  <matches>226</matches>
+	  <runs>1123</runs>
+	  <wickets>49</wickets>
+      <catches>6</catches>
+	  <image>87.jpg</image>
+	</player>
+
+	<player id="24">
+	  <name>Hashim Amla</name>
+	  <team>South Africa</team>
+	  <jersey>1</jersey>
+	  <matches>231</matches>
+	  <runs>17444</runs>
+	  <wickets>13</wickets>
+      <catches>14</catches>
+	  <image>88.jpg</image>
+	</player>
+
+	<player id="25">
+	  <name>Quinton de Kock</name>
+	  <team>South Africa</team>
+	  <jersey>12</jersey>
+	  <matches>134</matches>
+	  <runs>6000</runs>
+	  <wickets>5</wickets>
+      <catches>74</catches>
+	  <image>89.jpg</image>
+	</player>
+
+	<player id="26">
+	  <name>JP Duminy</name>
+	  <team>South Africa</team>
+	  <jersey>21</jersey>
+	  <matches>108</matches>
+	  <runs>6774</runs>
+	  <wickets>1</wickets>
+      <catches>79</catches>
+	  <image>90.jpg</image>
+	</player>
+
+	<player id="27">
+	  <name>Imran Tahir</name>
+	  <team>South Africa</team>
+	  <jersey>99</jersey>
+	  <matches>190</matches>
+	  <runs>2617</runs>
+	  <wickets>11</wickets>
+      <catches>42</catches>
+	  <image>91.jpg</image>
+	</player>
+
+	<player id="28">
+	  <name>David Miller</name>
+	  <team>South Africa</team>
+	  <jersey>5</jersey>
+	  <matches>186</matches>
+	  <runs>4841</runs>
+	  <wickets>43</wickets>
+      <catches>74</catches>
+	  <image>92.jpg</image>
+	</player>
+
+	<player id="29">
+	  <name>Keshav Maharaj</name>
+	  <team>South Africa</team>
+	  <jersey>16</jersey>
+	  <matches>208</matches>
+	  <runs>2531</runs>
+	  <wickets>128</wickets>
+      <catches>37</catches>
+	  <image>93.jpg</image>
+	</player>
+
+	<player id="30">
+	  <name>Andile Phehlukwayo</name>
+	  <team>South Africa</team>
+	  <jersey>23</jersey>
+	  <matches>48</matches>
+	  <runs>59</runs>
+	  <wickets>55</wickets>
+      <catches>27</catches>
+	  <image>94.jpg</image>
+	</player>
+
+	<player id="31">
+	  <name>Heinrich Klaasen</name>
+	  <team>South Africa</team>
+	  <jersey>79</jersey>
+	  <matches>59</matches>
+	  <runs>2661</runs>
+	  <wickets>23</wickets>
+      <catches>21</catches>
+	  <image>95.jpg</image>
+	</player>
+
+	<player id="32">
+	  <name>Dale Steyn</name>
+	  <team>South Africa</team>
+	  <jersey>8</jersey>
+	  <matches>136</matches>
+	  <runs>1767</runs>
+	  <wickets>3</wickets>
+      <catches>14</catches>
+	  <image>96.jpg</image>
+	</player>
+
+	<player id="33">
+	  <name>Vernon Philander</name>
+	  <team>South Africa</team>
+	  <jersey>5</jersey>
+	  <matches>156</matches>
+	  <runs>1359</runs>
+	  <wickets>43</wickets>
+      <catches>11</catches>
+	  <image>97.jpg</image>
+	</player>
+
+	<group id="1">
+	   <name>Australia</name>
+	   <matches>3567</matches>
+		 <image>98.jpg</image>
+     <won>2534</won>
+	   <lost>1033</lost>
+		 <draw>59</draw>
+	 </group>
+
+	 <group id="2">
+	   <name>India</name>
+	   <matches>45654</matches>
+		 <image>100.jpg</image>
+       <won>30983</won>
+	   <lost>10531</lost>
+		 <draw>4410</draw>
+	 </group>
+
+	 <group id="3">
+	   <name>South Africa</name>
+	   <matches>500987</matches>
+	 	<image>99.jpg</image>
+       <won>220098</won>
+	   <lost>261143</lost>
+		 <draw>9876</draw>
+	 </group>
+
+	 <group id="4">
+	   <name>England</name>
+		 <image>101.jpg</image>
+	   <matches>509120</matches>
+      <won>278902</won>
+	   <lost>220120</lost>
+		 <draw>10098</draw>
+	 </group>
+
+	 <events id="1">
+		<date>24/06/2018</date>
+		<city>Moore Park</city>
+		<time>10:30pm</time>
+		<team1>India</team1>
+		<team2>Australia</team2>
+		<toss_win>Australia</toss_win>
+		<toss_decision>Batting</toss_decision>
+		<winner>India</winner>
+		<win_by_runs>1</win_by_runs>
+		<win_by_wickets>1</win_by_wickets>
+		<player_of_match>Glenn Maxwell</player_of_match>
+		<venue>Sydney Cricket Ground</venue>
+		<team1_runs>294</team1_runs>
+		<team2_runs>293</team2_runs>
+		<team1_wickets>5</team1_wickets>
+		<team2_wickets>6</team2_wickets>
+	</events>
+
+	 <events id="2">
+		<date>14/05/2018</date>
+		<city>Durban</city>
+		<time>3:30pm</time>
+		<team1>SouthAfrica</team1>
+		<team2>Australia</team2>
+		<toss_win>Australia</toss_win>
+		<toss_decision>Batting</toss_decision>
+		<winner>Australia</winner>
+		<win_by_runs>189</win_by_runs>
+		<win_by_wickets>5</win_by_wickets>
+		<player_of_match>Mitchell Starc</player_of_match>
+		<venue>Kingsmead Stadium</venue>
+		<team1_runs>162</team1_runs>
+		<team2_runs>351</team2_runs>
+		<team1_wickets>3</team1_wickets>
+		<team2_wickets>7</team2_wickets>
+	</events>
+
+	 <events id="3">
+		<date>2/10/2018</date>
+		<city>Johannesburg </city>
+		<time>9:00am</time>
+		<team1>India</team1>
+		<team2>SouthAfrica</team2>
+		<toss_win>India</toss_win>
+		<toss_decision>Batting</toss_decision>
+		<winner>India</winner>
+		<win_by_runs>82</win_by_runs>
+		<win_by_wickets>1</win_by_wickets>
+		<player_of_match>Virat Kohli</player_of_match>
+		<venue>New Wanderers Stadium</venue>
+		<team1_runs>289</team1_runs>
+		<team2_runs>207</team2_runs>
+		<team1_wickets>7</team1_wickets>
+		<team2_wickets>6</team2_wickets>
+	</events>
+
+
+
+
+
+
+
+
+
+
+
+</ProductCatalog>
